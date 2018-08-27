@@ -1,5 +1,3 @@
-package edu.usfca.cs.cs245;
-
 public class Practice1Test {
 
 	protected A1Factory factory;

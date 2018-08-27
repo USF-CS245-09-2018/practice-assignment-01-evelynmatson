@@ -1,5 +1,3 @@
-package edu.usfca.cs.cs245;
-
 public interface Fibonacci {
 	
 	/**
@@ -9,6 +7,6 @@ public interface Fibonacci {
 	 * @param n
 	 * @return fib(n) as defined above.
 	 */
-	int fibonacci(int n);
+	public int fibonacci(int n);
 
 }

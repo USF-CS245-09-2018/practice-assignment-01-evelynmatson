@@ -1,6 +1,3 @@
-package edu.usfca.cs.cs245;
-
-
 public class A1Factory {
 
 

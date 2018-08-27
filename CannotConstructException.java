@@ -1,5 +1,3 @@
-package edu.usfca.cs.cs245;
-
 public class CannotConstructException extends Exception {
 
 	private static final long serialVersionUID = 24501L;
